@@ -1,0 +1,8 @@
+[
+  {"id": 1, "title": "Сдать модуль 4", "description": "Отчет по корутинам и сервисам", "isCompleted": true},
+  {"id": 2, "title": "Сделать модуль 5", "description": "Файлы, MediaStore, Room и DataStore", "isCompleted": false},
+  {"id": 3, "title": "Купить продукты", "description": "Молоко, хлеб, яблоки", "isCompleted": false},
+  {"id": 4, "title": "Позвонить родителям", "description": "", "isCompleted": true},
+  {"id": 5, "title": "Прочитать главу про Room", "description": "Entity, Dao, Database", "isCompleted": false},
+  {"id": 6, "title": "Записаться в спортзал", "description": "Абонемент на месяц", "isCompleted": false}
+]

@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.NetworkPractice"
+        parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

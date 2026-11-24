@@ -1,0 +1,562 @@
+[
+  {
+    "id": 100000,
+    "full_name": "JetBrains/kotlin",
+    "description": "The Kotlin Programming Language",
+    "stargazers_count": 50100,
+    "language": "Kotlin"
+  },
+  {
+    "id": 101371,
+    "full_name": "Kotlin/kotlinx.coroutines",
+    "description": "Library support for Kotlin coroutines",
+    "stargazers_count": 13300,
+    "language": "Kotlin"
+  },
+  {
+    "id": 102742,
+    "full_name": "Kotlin/kotlinx.serialization",
+    "description": "Kotlin multiplatform / multi-format serialization",
+    "stargazers_count": 5600,
+    "language": "Kotlin"
+  },
+  {
+    "id": 104113,
+    "full_name": "JetBrains/compose-multiplatform",
+    "description": "Compose Multiplatform, a modern UI framework for Kotlin",
+    "stargazers_count": 17500,
+    "language": "Kotlin"
+  },
+  {
+    "id": 105484,
+    "full_name": "ktorio/ktor",
+    "description": "Framework for quickly creating connected applications in Kotlin",
+    "stargazers_count": 13600,
+    "language": "Kotlin"
+  },
+  {
+    "id": 106855,
+    "full_name": "square/okhttp",
+    "description": "Square's meticulous HTTP client for the JVM, Android, and GraalVM",
+    "stargazers_count": 46500,
+    "language": "Kotlin"
+  },
+  {
+    "id": 108226,
+    "full_name": "square/retrofit",
+    "description": "A type-safe HTTP client for Android and the JVM",
+    "stargazers_count": 43600,
+    "language": "Java"
+  },
+  {
+    "id": 109597,
+    "full_name": "square/leakcanary",
+    "description": "A memory leak detection library for Android",
+    "stargazers_count": 29700,
+    "language": "Kotlin"
+  },
+  {
+    "id": 110968,
+    "full_name": "square/moshi",
+    "description": "A modern JSON library for Kotlin and Java",
+    "stargazers_count": 9900,
+    "language": "Kotlin"
+  },
+  {
+    "id": 112339,
+    "full_name": "coil-kt/coil",
+    "description": "Image loading for Android and Compose Multiplatform",
+    "stargazers_count": 11200,
+    "language": "Kotlin"
+  },
+  {
+    "id": 113710,
+    "full_name": "bumptech/glide",
+    "description": "An image loading and caching library for Android focused on smooth scrolling",
+    "stargazers_count": 34800,
+    "language": "Java"
+  },
+  {
+    "id": 115081,
+    "full_name": "google/dagger",
+    "description": "A fast dependency injector for Android and Java",
+    "stargazers_count": 17500,
+    "language": "Java"
+  },
+  {
+    "id": 116452,
+    "full_name": "InsertKoinIO/koin",
+    "description": "Koin - a pragmatic lightweight dependency injection framework for Kotlin",
+    "stargazers_count": 9400,
+    "language": "Kotlin"
+  },
+  {
+    "id": 117823,
+    "full_name": "android/nowinandroid",
+    "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "stargazers_count": 18200,
+    "language": "Kotlin"
+  },
+  {
+    "id": 119194,
+    "full_name": "android/architecture-samples",
+    "description": "A collection of samples to discuss and showcase different architectural tools",
+    "stargazers_count": 45100,
+    "language": "Kotlin"
+  },
+  {
+    "id": 120565,
+    "full_name": "android/compose-samples",
+    "description": "Official Jetpack Compose samples",
+    "stargazers_count": 21600,
+    "language": "Kotlin"
+  },
+  {
+    "id": 121936,
+    "full_name": "android/sunflower",
+    "description": "A gardening app illustrating Android development best practices",
+    "stargazers_count": 17800,
+    "language": "Kotlin"
+  },
+  {
+    "id": 123307,
+    "full_name": "android/uamp",
+    "description": "A sample audio app for Android",
+    "stargazers_count": 13200,
+    "language": "Kotlin"
+  },
+  {
+    "id": 124678,
+    "full_name": "android/camera-samples",
+    "description": "Multiple samples showing the best practices in camera APIs on Android",
+    "stargazers_count": 5100,
+    "language": "Kotlin"
+  },
+  {
+    "id": 126049,
+    "full_name": "airbnb/lottie-android",
+    "description": "Render After Effects animations natively on Android and iOS",
+    "stargazers_count": 35300,
+    "language": "Java"
+  },
+  {
+    "id": 127420,
+    "full_name": "airbnb/mavericks",
+    "description": "Android on Autopilot",
+    "stargazers_count": 5900,
+    "language": "Kotlin"
+  },
+  {
+    "id": 128791,
+    "full_name": "ReactiveX/RxJava",
+    "description": "Reactive Extensions for the JVM",
+    "stargazers_count": 48000,
+    "language": "Java"
+  },
+  {
+    "id": 130162,
+    "full_name": "ReactiveX/RxAndroid",
+    "description": "RxJava bindings for Android",
+    "stargazers_count": 19900,
+    "language": "Java"
+  },
+  {
+    "id": 131533,
+    "full_name": "facebook/react-native",
+    "description": "A framework for building native applications using React",
+    "stargazers_count": 120000,
+    "language": "C++"
+  },
+  {
+    "id": 132904,
+    "full_name": "flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "stargazers_count": 167000,
+    "language": "Dart"
+  },
+  {
+    "id": 134275,
+    "full_name": "JetBrains/intellij-community",
+    "description": "IntelliJ IDEA Community Edition & IntelliJ Platform",
+    "stargazers_count": 17800,
+    "language": "Java"
+  },
+  {
+    "id": 135646,
+    "full_name": "JetBrains/Exposed",
+    "description": "Kotlin SQL Framework",
+    "stargazers_count": 8500,
+    "language": "Kotlin"
+  },
+  {
+    "id": 137017,
+    "full_name": "arrow-kt/arrow",
+    "description": "Functional companion to Kotlin's Standard Library",
+    "stargazers_count": 6200,
+    "language": "Kotlin"
+  },
+  {
+    "id": 138388,
+    "full_name": "detekt/detekt",
+    "description": "Static code analysis for Kotlin",
+    "stargazers_count": 6400,
+    "language": "Kotlin"
+  },
+  {
+    "id": 139759,
+    "full_name": "pinterest/ktlint",
+    "description": "An anti-bikeshedding Kotlin linter with built-in formatter",
+    "stargazers_count": 6300,
+    "language": "Kotlin"
+  },
+  {
+    "id": 141130,
+    "full_name": "mockk/mockk",
+    "description": "mocking library for Kotlin",
+    "stargazers_count": 5500,
+    "language": "Kotlin"
+  },
+  {
+    "id": 142501,
+    "full_name": "kotest/kotest",
+    "description": "Powerful, elegant and flexible test framework for Kotlin",
+    "stargazers_count": 4500,
+    "language": "Kotlin"
+  },
+  {
+    "id": 143872,
+    "full_name": "cashapp/sqldelight",
+    "description": "SQLDelight - Generates typesafe Kotlin APIs from SQL",
+    "stargazers_count": 6200,
+    "language": "Kotlin"
+  },
+  {
+    "id": 145243,
+    "full_name": "cashapp/turbine",
+    "description": "A testing library for kotlinx.coroutines Flow",
+    "stargazers_count": 2800,
+    "language": "Kotlin"
+  },
+  {
+    "id": 146614,
+    "full_name": "cashapp/paparazzi",
+    "description": "Render your Android screens without a physical device or emulator",
+    "stargazers_count": 2400,
+    "language": "Kotlin"
+  },
+  {
+    "id": 147985,
+    "full_name": "realm/realm-kotlin",
+    "description": "Kotlin Multiplatform and Android SDK for the Realm Mobile Database",
+    "stargazers_count": 1000,
+    "language": "Kotlin"
+  },
+  {
+    "id": 149356,
+    "full_name": "touchlab/KaMPKit",
+    "description": "KaMP Kit by Touchlab is a collection of code and tools for Kotlin Multiplatform",
+    "stargazers_count": 2200,
+    "language": "Kotlin"
+  },
+  {
+    "id": 150727,
+    "full_name": "skydoves/Pokedex",
+    "description": "Pokedex demonstrates modern Android development with Hilt, Coroutines, Flow",
+    "stargazers_count": 7800,
+    "language": "Kotlin"
+  },
+  {
+    "id": 152098,
+    "full_name": "skydoves/landscapist",
+    "description": "Jetpack Compose and Kotlin Multiplatform image loading library",
+    "stargazers_count": 2100,
+    "language": "Kotlin"
+  },
+  {
+    "id": 153469,
+    "full_name": "chrisbanes/tivi",
+    "description": "Tivi is an app which attempts to use the latest libraries and tools",
+    "stargazers_count": 6600,
+    "language": "Kotlin"
+  },
+  {
+    "id": 154840,
+    "full_name": "mikepenz/MaterialDrawer",
+    "description": "The flexible, easy to use, all in one drawer library for your Android project",
+    "stargazers_count": 11700,
+    "language": "Kotlin"
+  },
+  {
+    "id": 156211,
+    "full_name": "PhilJay/MPAndroidChart",
+    "description": "A powerful Android chart view / graph view library",
+    "stargazers_count": 37700,
+    "language": "Java"
+  },
+  {
+    "id": 157582,
+    "full_name": "Tencent/MMKV",
+    "description": "An efficient, small mobile key-value storage framework",
+    "stargazers_count": 17600,
+    "language": "C++"
+  },
+  {
+    "id": 158953,
+    "full_name": "Tencent/tinker",
+    "description": "Tinker is a hot-fix solution library for Android",
+    "stargazers_count": 17200,
+    "language": "Java"
+  },
+  {
+    "id": 160324,
+    "full_name": "alibaba/ARouter",
+    "description": "A framework for assisting in the renovation of Android componentization",
+    "stargazers_count": 14500,
+    "language": "Java"
+  },
+  {
+    "id": 161695,
+    "full_name": "JakeWharton/timber",
+    "description": "A logger with a small, extensible API which provides utility on top of Log",
+    "stargazers_count": 10600,
+    "language": "Kotlin"
+  },
+  {
+    "id": 163066,
+    "full_name": "JakeWharton/butterknife",
+    "description": "Bind Android views and callbacks to fields and methods",
+    "stargazers_count": 25500,
+    "language": "Java"
+  },
+  {
+    "id": 164437,
+    "full_name": "greenrobot/EventBus",
+    "description": "Event bus for Android and Java that simplifies communication",
+    "stargazers_count": 24700,
+    "language": "Java"
+  },
+  {
+    "id": 165808,
+    "full_name": "greenrobot/greenDAO",
+    "description": "greenDAO is a light and fast ORM solution for Android",
+    "stargazers_count": 12600,
+    "language": "Java"
+  },
+  {
+    "id": 167179,
+    "full_name": "google/gson",
+    "description": "A Java serialization/deserialization library to convert Java Objects into JSON",
+    "stargazers_count": 23700,
+    "language": "Java"
+  },
+  {
+    "id": 168550,
+    "full_name": "google/guava",
+    "description": "Google core libraries for Java",
+    "stargazers_count": 50800,
+    "language": "Java"
+  },
+  {
+    "id": 169921,
+    "full_name": "google/ksp",
+    "description": "Kotlin Symbol Processing API",
+    "stargazers_count": 3100,
+    "language": "Kotlin"
+  },
+  {
+    "id": 171292,
+    "full_name": "google/accompanist",
+    "description": "A collection of extension libraries for Jetpack Compose",
+    "stargazers_count": 7600,
+    "language": "Kotlin"
+  },
+  {
+    "id": 172663,
+    "full_name": "google/material-design-icons",
+    "description": "Material Design icons by Google",
+    "stargazers_count": 52000,
+    "language": "JavaScript"
+  },
+  {
+    "id": 174034,
+    "full_name": "material-components/material-components-android",
+    "description": "Modular and customizable Material Design UI components for Android",
+    "stargazers_count": 16700,
+    "language": "Java"
+  },
+  {
+    "id": 175405,
+    "full_name": "spring-projects/spring-boot",
+    "description": "Spring Boot helps you to create Spring-powered, production-grade applications",
+    "stargazers_count": 78000,
+    "language": "Java"
+  },
+  {
+    "id": 176776,
+    "full_name": "spring-projects/spring-framework",
+    "description": "Spring Framework",
+    "stargazers_count": 58000,
+    "language": "Java"
+  },
+  {
+    "id": 178147,
+    "full_name": "gradle/gradle",
+    "description": "Adaptable, fast automation for all",
+    "stargazers_count": 17400,
+    "language": "Groovy"
+  },
+  {
+    "id": 179518,
+    "full_name": "apache/kafka",
+    "description": "Mirror of Apache Kafka",
+    "stargazers_count": 30000,
+    "language": "Java"
+  },
+  {
+    "id": 180889,
+    "full_name": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "stargazers_count": 73000,
+    "language": "Java"
+  },
+  {
+    "id": 182260,
+    "full_name": "microsoft/vscode",
+    "description": "Visual Studio Code",
+    "stargazers_count": 175000,
+    "language": "TypeScript"
+  },
+  {
+    "id": 183631,
+    "full_name": "microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output",
+    "stargazers_count": 104000,
+    "language": "TypeScript"
+  },
+  {
+    "id": 185002,
+    "full_name": "facebook/react",
+    "description": "The library for web and native user interfaces",
+    "stargazers_count": 236000,
+    "language": "JavaScript"
+  },
+  {
+    "id": 186373,
+    "full_name": "vuejs/vue",
+    "description": "Vue.js is a progressive framework for building user interfaces",
+    "stargazers_count": 209000,
+    "language": "TypeScript"
+  },
+  {
+    "id": 187744,
+    "full_name": "torvalds/linux",
+    "description": "Linux kernel source tree",
+    "stargazers_count": 195000,
+    "language": "C"
+  },
+  {
+    "id": 189115,
+    "full_name": "python/cpython",
+    "description": "The Python programming language",
+    "stargazers_count": 66000,
+    "language": "Python"
+  },
+  {
+    "id": 190486,
+    "full_name": "django/django",
+    "description": "The Web framework for perfectionists with deadlines",
+    "stargazers_count": 84000,
+    "language": "Python"
+  },
+  {
+    "id": 191857,
+    "full_name": "pallets/flask",
+    "description": "The Python micro framework for building web applications",
+    "stargazers_count": 70000,
+    "language": "Python"
+  },
+  {
+    "id": 193228,
+    "full_name": "tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "stargazers_count": 189000,
+    "language": "C++"
+  },
+  {
+    "id": 194599,
+    "full_name": "pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "stargazers_count": 90000,
+    "language": "Python"
+  },
+  {
+    "id": 195970,
+    "full_name": "golang/go",
+    "description": "The Go programming language",
+    "stargazers_count": 128000,
+    "language": "Go"
+  },
+  {
+    "id": 197341,
+    "full_name": "rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software",
+    "stargazers_count": 104000,
+    "language": "Rust"
+  },
+  {
+    "id": 198712,
+    "full_name": "denoland/deno",
+    "description": "A modern runtime for JavaScript and TypeScript",
+    "stargazers_count": 102000,
+    "language": "Rust"
+  },
+  {
+    "id": 200083,
+    "full_name": "nodejs/node",
+    "description": "Node.js JavaScript runtime",
+    "stargazers_count": 112000,
+    "language": "JavaScript"
+  },
+  {
+    "id": 201454,
+    "full_name": "docker/compose",
+    "description": "Define and run multi-container applications with Docker",
+    "stargazers_count": 35000,
+    "language": "Go"
+  },
+  {
+    "id": 202825,
+    "full_name": "kubernetes/kubernetes",
+    "description": "Production-Grade Container Scheduling and Management",
+    "stargazers_count": 115000,
+    "language": "Go"
+  },
+  {
+    "id": 204196,
+    "full_name": "apple/swift",
+    "description": "The Swift Programming Language",
+    "stargazers_count": 68000,
+    "language": "C++"
+  },
+  {
+    "id": 205567,
+    "full_name": "Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "stargazers_count": 41000,
+    "language": "Swift"
+  },
+  {
+    "id": 206938,
+    "full_name": "SnapKit/SnapKit",
+    "description": "A Swift Autolayout DSL for iOS & OS X",
+    "stargazers_count": 20000,
+    "language": "Swift"
+  },
+  {
+    "id": 208309,
+    "full_name": "dotnet/runtime",
+    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps",
+    "stargazers_count": 16000,
+    "language": "C#"
+  }
+]

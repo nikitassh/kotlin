@@ -1,0 +1,2000 @@
+[
+ {
+  "awardYear": 2024,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2024-10-07",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1035,
+    "fullName": "Victor Ambros",
+    "portion": "1/2",
+    "motivation": "for the discovery of microRNA and its role in post-transcriptional gene regulation"
+   },
+   {
+    "id": 1036,
+    "fullName": "Gary Ruvkun",
+    "portion": "1/2",
+    "motivation": "for the discovery of microRNA and its role in post-transcriptional gene regulation"
+   }
+  ]
+ },
+ {
+  "awardYear": 2024,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2024-10-08",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1037,
+    "fullName": "John J. Hopfield",
+    "portion": "1/2",
+    "motivation": "for foundational discoveries and inventions that enable machine learning with artificial neural networks"
+   },
+   {
+    "id": 1038,
+    "fullName": "Geoffrey Hinton",
+    "portion": "1/2",
+    "motivation": "for foundational discoveries and inventions that enable machine learning with artificial neural networks"
+   }
+  ]
+ },
+ {
+  "awardYear": 2024,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2024-10-11",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1043,
+    "fullName": "Nihon Hidankyo",
+    "portion": "1",
+    "motivation": "for its efforts to achieve a world free of nuclear weapons and for demonstrating through witness testimony that nuclear weapons must never be used again"
+   }
+  ]
+ },
+ {
+  "awardYear": 2024,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2024-10-10",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1042,
+    "fullName": "Han Kang",
+    "portion": "1",
+    "motivation": "for her intense poetic prose that confronts historical traumas and exposes the fragility of human life"
+   }
+  ]
+ },
+ {
+  "awardYear": 2024,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2024-10-14",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1044,
+    "fullName": "Daron Acemoglu",
+    "portion": "1/3",
+    "motivation": "for studies of how institutions are formed and affect prosperity"
+   },
+   {
+    "id": 1045,
+    "fullName": "Simon Henry Roberts Johnson",
+    "portion": "1/3",
+    "motivation": "for studies of how institutions are formed and affect prosperity"
+   },
+   {
+    "id": 1046,
+    "fullName": "James A. Robinson",
+    "portion": "1/3",
+    "motivation": "for studies of how institutions are formed and affect prosperity"
+   }
+  ]
+ },
+ {
+  "awardYear": 2024,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2024-10-09",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1039,
+    "fullName": "David Baker",
+    "portion": "1/2",
+    "motivation": "for computational protein design"
+   },
+   {
+    "id": 1040,
+    "fullName": "Demis Hassabis",
+    "portion": "1/4",
+    "motivation": "for protein structure prediction"
+   },
+   {
+    "id": 1041,
+    "fullName": "John Jumper",
+    "portion": "1/4",
+    "motivation": "for protein structure prediction"
+   }
+  ]
+ },
+ {
+  "awardYear": 2023,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2023-10-02",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1024,
+    "fullName": "Katalin Karikó",
+    "portion": "1/2",
+    "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19"
+   },
+   {
+    "id": 1025,
+    "fullName": "Drew Weissman",
+    "portion": "1/2",
+    "motivation": "for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19"
+   }
+  ]
+ },
+ {
+  "awardYear": 2023,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2023-10-03",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1026,
+    "fullName": "Pierre Agostini",
+    "portion": "1/3",
+    "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter"
+   },
+   {
+    "id": 1027,
+    "fullName": "Ferenc Krausz",
+    "portion": "1/3",
+    "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter"
+   },
+   {
+    "id": 1028,
+    "fullName": "Anne L’Huillier",
+    "portion": "1/3",
+    "motivation": "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter"
+   }
+  ]
+ },
+ {
+  "awardYear": 2023,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2023-10-06",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1033,
+    "fullName": "Narges Mohammadi",
+    "portion": "1",
+    "motivation": "for her fight against the oppression of women in Iran and her fight to promote human rights and freedom for all"
+   }
+  ]
+ },
+ {
+  "awardYear": 2023,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2023-10-05",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1032,
+    "fullName": "Jon Fosse",
+    "portion": "1",
+    "motivation": "for his innovative plays and prose which give voice to the unsayable"
+   }
+  ]
+ },
+ {
+  "awardYear": 2023,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2023-10-09",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1034,
+    "fullName": "Claudia Goldin",
+    "portion": "1",
+    "motivation": "for having advanced our understanding of women’s labour market outcomes"
+   }
+  ]
+ },
+ {
+  "awardYear": 2023,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2023-10-04",
+  "prizeAmount": 11000000,
+  "laureates": [
+   {
+    "id": 1029,
+    "fullName": "Moungi G. Bawendi",
+    "portion": "1/3",
+    "motivation": "for the discovery and synthesis of quantum dots"
+   },
+   {
+    "id": 1030,
+    "fullName": "Louis E. Brus",
+    "portion": "1/3",
+    "motivation": "for the discovery and synthesis of quantum dots"
+   },
+   {
+    "id": 1031,
+    "fullName": "Aleksey Yekimov ",
+    "portion": "1/3",
+    "motivation": "for the discovery and synthesis of quantum dots"
+   }
+  ]
+ },
+ {
+  "awardYear": 2022,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2022-10-03",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 1011,
+    "fullName": "Svante Pääbo",
+    "portion": "1",
+    "motivation": "for his discoveries concerning the genomes of extinct hominins and human evolution"
+   }
+  ]
+ },
+ {
+  "awardYear": 2022,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2022-10-04",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 1012,
+    "fullName": "Alain Aspect",
+    "portion": "1/3",
+    "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science"
+   },
+   {
+    "id": 1013,
+    "fullName": "John F. Clauser",
+    "portion": "1/3",
+    "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science"
+   },
+   {
+    "id": 1014,
+    "fullName": "Anton Zeilinger",
+    "portion": "1/3",
+    "motivation": "for experiments with entangled photons, establishing the violation of Bell inequalities and  pioneering quantum information science"
+   }
+  ]
+ },
+ {
+  "awardYear": 2022,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2022-10-07",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 1018,
+    "fullName": "Ales Bialiatski ",
+    "portion": "1/3",
+    "motivation": "The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy."
+   },
+   {
+    "id": 1019,
+    "fullName": "Memorial",
+    "portion": "1/3",
+    "motivation": "The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy."
+   },
+   {
+    "id": 1020,
+    "fullName": "Center for Civil Liberties",
+    "portion": "1/3",
+    "motivation": "The Peace Prize laureates represent civil society in their home countries. They have for many years promoted the right to criticise power and protect the fundamental rights of citizens. They have made an outstanding effort to document war crimes, human right abuses and the abuse of power. Together they demonstrate the significance of civil society for peace and democracy."
+   }
+  ]
+ },
+ {
+  "awardYear": 2022,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2022-10-06",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 1017,
+    "fullName": "Annie Ernaux",
+    "portion": "1",
+    "motivation": "for the courage and clinical acuity with which she uncovers the roots, estrangements and  collective restraints of personal memory"
+   }
+  ]
+ },
+ {
+  "awardYear": 2022,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2011-10-10",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 1021,
+    "fullName": "Ben S. Bernanke",
+    "portion": "1/3",
+    "motivation": "for research on banks and financial crises"
+   },
+   {
+    "id": 1022,
+    "fullName": "Douglas W. Diamond",
+    "portion": "1/3",
+    "motivation": "for research on banks and financial crises"
+   },
+   {
+    "id": 1023,
+    "fullName": "Philip H. Dybvig",
+    "portion": "1/3",
+    "motivation": "for research on banks and financial crises"
+   }
+  ]
+ },
+ {
+  "awardYear": 2022,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2022-10-05",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 1015,
+    "fullName": "Carolyn R. Bertozzi",
+    "portion": "1/3",
+    "motivation": "for the development of click chemistry and bioorthogonal chemistry"
+   },
+   {
+    "id": 1016,
+    "fullName": "Morten Meldal",
+    "portion": "1/3",
+    "motivation": "for the development of click chemistry and bioorthogonal chemistry"
+   },
+   {
+    "id": 743,
+    "fullName": "K. Barry Sharpless",
+    "portion": "1/3",
+    "motivation": "for the development of click chemistry and bioorthogonal chemistry"
+   }
+  ]
+ },
+ {
+  "awardYear": 2021,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2021-10-04",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 997,
+    "fullName": "David Julius",
+    "portion": "1/2",
+    "motivation": "for their discoveries of receptors for temperature and touch"
+   },
+   {
+    "id": 998,
+    "fullName": "Ardem Patapoutian",
+    "portion": "1/2",
+    "motivation": "for their discoveries of receptors for temperature and touch"
+   }
+  ]
+ },
+ {
+  "awardYear": 2021,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2021-10-05",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 999,
+    "fullName": "Syukuro Manabe",
+    "portion": "1/4",
+    "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming"
+   },
+   {
+    "id": 1000,
+    "fullName": "Klaus Hasselmann",
+    "portion": "1/4",
+    "motivation": "for the physical modelling of Earth’s climate, quantifying variability and reliably predicting global warming"
+   },
+   {
+    "id": 1001,
+    "fullName": "Giorgio Parisi",
+    "portion": "1/2",
+    "motivation": "for the discovery of the interplay of disorder and fluctuations in physical systems from atomic to planetary scales"
+   }
+  ]
+ },
+ {
+  "awardYear": 2021,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2021-10-08",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 1005,
+    "fullName": "Maria Ressa",
+    "portion": "1/2",
+    "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace"
+   },
+   {
+    "id": 1006,
+    "fullName": "Dmitry Andreyevich Muratov",
+    "portion": "1/2",
+    "motivation": "for their efforts to safeguard freedom of expression, which is a precondition for democracy and lasting peace"
+   }
+  ]
+ },
+ {
+  "awardYear": 2021,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2021-10-07",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 1004,
+    "fullName": "Abdulrazak Gurnah",
+    "portion": "1",
+    "motivation": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents"
+   }
+  ]
+ },
+ {
+  "awardYear": 2021,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2021-10-11",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 1007,
+    "fullName": "David Card",
+    "portion": "1/2",
+    "motivation": "for his empirical contributions to labour economics"
+   },
+   {
+    "id": 1008,
+    "fullName": "Joshua D. Angrist",
+    "portion": "1/4",
+    "motivation": "for their methodological contributions to the analysis of causal relationships"
+   },
+   {
+    "id": 1009,
+    "fullName": "Guido W. Imbens",
+    "portion": "1/4",
+    "motivation": "for their methodological contributions to the analysis of causal relationships"
+   }
+  ]
+ },
+ {
+  "awardYear": 2021,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2021-10-06",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 1002,
+    "fullName": "Benjamin List",
+    "portion": "1/2",
+    "motivation": "for the development of asymmetric organocatalysis"
+   },
+   {
+    "id": 1003,
+    "fullName": "David W.C. MacMillan",
+    "portion": "1/2",
+    "motivation": "for the development of asymmetric organocatalysis"
+   }
+  ]
+ },
+ {
+  "awardYear": 2020,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2020-10-05",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 985,
+    "fullName": "Harvey J. Alter",
+    "portion": "1/3",
+    "motivation": "for the discovery of Hepatitis C virus"
+   },
+   {
+    "id": 986,
+    "fullName": "Michael Houghton",
+    "portion": "1/3",
+    "motivation": "for the discovery of Hepatitis C virus"
+   },
+   {
+    "id": 987,
+    "fullName": "Charles M. Rice",
+    "portion": "1/3",
+    "motivation": "for the discovery of Hepatitis C virus"
+   }
+  ]
+ },
+ {
+  "awardYear": 2020,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2020-10-06",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 988,
+    "fullName": "Roger Penrose",
+    "portion": "1/2",
+    "motivation": "for the discovery that black hole formation is a robust prediction of the general theory of relativity"
+   },
+   {
+    "id": 989,
+    "fullName": "Reinhard Genzel",
+    "portion": "1/4",
+    "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy"
+   },
+   {
+    "id": 990,
+    "fullName": "Andrea Ghez",
+    "portion": "1/4",
+    "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy"
+   }
+  ]
+ },
+ {
+  "awardYear": 2020,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2020-10-09",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 994,
+    "fullName": "World Food Programme",
+    "portion": "1",
+    "motivation": "for its efforts to combat hunger, for its contribution to bettering conditions for peace in conflict-affected areas and for acting as a driving force in efforts to prevent the use of hunger as a weapon of war and conflict"
+   }
+  ]
+ },
+ {
+  "awardYear": 2020,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2020-10-08",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 993,
+    "fullName": "Louise Glück",
+    "portion": "1",
+    "motivation": "for her unmistakable poetic voice that with austere beauty makes individual existence universal"
+   }
+  ]
+ },
+ {
+  "awardYear": 2020,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2020-10-12",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 995,
+    "fullName": "Paul R. Milgrom",
+    "portion": "1/2",
+    "motivation": "for improvements to auction theory and inventions of new auction formats"
+   },
+   {
+    "id": 996,
+    "fullName": "Robert B. Wilson",
+    "portion": "1/2",
+    "motivation": "for improvements to auction theory and inventions of new auction formats"
+   }
+  ]
+ },
+ {
+  "awardYear": 2020,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2020-10-07",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 991,
+    "fullName": "Emmanuelle Charpentier",
+    "portion": "1/2",
+    "motivation": "for the development of a method for genome editing"
+   },
+   {
+    "id": 992,
+    "fullName": "Jennifer A. Doudna",
+    "portion": "1/2",
+    "motivation": "for the development of a method for genome editing"
+   }
+  ]
+ },
+ {
+  "awardYear": 2019,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2019-10-07",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 970,
+    "fullName": "William G. Kaelin Jr",
+    "portion": "1/3",
+    "motivation": "for their discoveries of how cells sense and adapt to oxygen availability"
+   },
+   {
+    "id": 971,
+    "fullName": "Sir Peter J. Ratcliffe",
+    "portion": "1/3",
+    "motivation": "for their discoveries of how cells sense and adapt to oxygen availability"
+   },
+   {
+    "id": 972,
+    "fullName": "Gregg L. Semenza",
+    "portion": "1/3",
+    "motivation": "for their discoveries of how cells sense and adapt to oxygen availability"
+   }
+  ]
+ },
+ {
+  "awardYear": 2019,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2019-10-08",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 973,
+    "fullName": "James Peebles",
+    "portion": "1/2",
+    "motivation": "for theoretical discoveries in physical cosmology"
+   },
+   {
+    "id": 974,
+    "fullName": "Michel Mayor",
+    "portion": "1/4",
+    "motivation": "for the discovery of an exoplanet orbiting a solar-type star"
+   },
+   {
+    "id": 975,
+    "fullName": "Didier Queloz",
+    "portion": "1/4",
+    "motivation": "for the discovery of an exoplanet orbiting a solar-type star"
+   }
+  ]
+ },
+ {
+  "awardYear": 2019,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2019-10-11",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 981,
+    "fullName": "Abiy Ahmed Ali",
+    "portion": "1",
+    "motivation": "for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea"
+   }
+  ]
+ },
+ {
+  "awardYear": 2019,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2019-10-10",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 980,
+    "fullName": "Peter Handke",
+    "portion": "1",
+    "motivation": "for an influential work that with linguistic ingenuity has explored the periphery and the specificity of human experience"
+   }
+  ]
+ },
+ {
+  "awardYear": 2019,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2019-10-14",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 982,
+    "fullName": "Abhijit Banerjee",
+    "portion": "1/3",
+    "motivation": "for their experimental approach to alleviating global poverty"
+   },
+   {
+    "id": 983,
+    "fullName": "Esther Duflo",
+    "portion": "1/3",
+    "motivation": "for their experimental approach to alleviating global poverty"
+   },
+   {
+    "id": 984,
+    "fullName": "Michael Kremer",
+    "portion": "1/3",
+    "motivation": "for their experimental approach to alleviating global poverty"
+   }
+  ]
+ },
+ {
+  "awardYear": 2019,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2019-10-09",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 976,
+    "fullName": "John B. Goodenough",
+    "portion": "1/3",
+    "motivation": "for the development of lithium-ion batteries"
+   },
+   {
+    "id": 977,
+    "fullName": "M. Stanley Whittingham",
+    "portion": "1/3",
+    "motivation": "for the development of lithium-ion batteries"
+   },
+   {
+    "id": 978,
+    "fullName": "Akira Yoshino",
+    "portion": "1/3",
+    "motivation": "for the development of lithium-ion batteries"
+   }
+  ]
+ },
+ {
+  "awardYear": 2018,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2018-10-01",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 958,
+    "fullName": "James P. Allison",
+    "portion": "1/2",
+    "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation"
+   },
+   {
+    "id": 959,
+    "fullName": "Tasuku Honjo",
+    "portion": "1/2",
+    "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation"
+   }
+  ]
+ },
+ {
+  "awardYear": 2018,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2018-10-02",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 960,
+    "fullName": "Arthur Ashkin",
+    "portion": "1/2",
+    "motivation": "for the optical tweezers and their application to biological systems"
+   },
+   {
+    "id": 961,
+    "fullName": "Gérard Mourou",
+    "portion": "1/4",
+    "motivation": "for their method of generating high-intensity, ultra-short optical pulses"
+   },
+   {
+    "id": 962,
+    "fullName": "Donna Strickland",
+    "portion": "1/4",
+    "motivation": "for their method of generating high-intensity, ultra-short optical pulses"
+   }
+  ]
+ },
+ {
+  "awardYear": 2018,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2018-10-05",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 966,
+    "fullName": "Denis Mukwege",
+    "portion": "1/2",
+    "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict"
+   },
+   {
+    "id": 967,
+    "fullName": "Nadia Murad Basee Taha",
+    "portion": "1/2",
+    "motivation": "for their efforts to end the use of sexual violence as a weapon of war and armed conflict"
+   }
+  ]
+ },
+ {
+  "awardYear": 2018,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2019-10-10",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 979,
+    "fullName": "Olga Tokarczuk",
+    "portion": "1",
+    "motivation": "for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life"
+   }
+  ]
+ },
+ {
+  "awardYear": 2018,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2018-10-01",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 968,
+    "fullName": "William D. Nordhaus",
+    "portion": "1/2",
+    "motivation": "for integrating climate change into long-run macroeconomic analysis"
+   },
+   {
+    "id": 969,
+    "fullName": "Paul M. Romer",
+    "portion": "1/2",
+    "motivation": "for integrating technological innovations into long-run macroeconomic analysis"
+   }
+  ]
+ },
+ {
+  "awardYear": 2018,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2018-10-03",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 963,
+    "fullName": "Frances H. Arnold",
+    "portion": "1/2",
+    "motivation": "for the directed evolution of enzymes"
+   },
+   {
+    "id": 964,
+    "fullName": "George P. Smith",
+    "portion": "1/4",
+    "motivation": "for the phage display of peptides and antibodies"
+   },
+   {
+    "id": 965,
+    "fullName": "Sir Gregory P. Winter",
+    "portion": "1/4",
+    "motivation": "for the phage display of peptides and antibodies"
+   }
+  ]
+ },
+ {
+  "awardYear": 2017,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2017-10-02",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 938,
+    "fullName": "Jeffrey C. Hall",
+    "portion": "1/3",
+    "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
+   },
+   {
+    "id": 939,
+    "fullName": "Michael Rosbash",
+    "portion": "1/3",
+    "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
+   },
+   {
+    "id": 940,
+    "fullName": "Michael W. Young",
+    "portion": "1/3",
+    "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm"
+   }
+  ]
+ },
+ {
+  "awardYear": 2017,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2017-10-03",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 941,
+    "fullName": "Rainer Weiss",
+    "portion": "1/2",
+    "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
+   },
+   {
+    "id": 942,
+    "fullName": "Barry C. Barish",
+    "portion": "1/4",
+    "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
+   },
+   {
+    "id": 943,
+    "fullName": "Kip S. Thorne",
+    "portion": "1/4",
+    "motivation": "for decisive contributions to the LIGO detector and the observation of gravitational waves"
+   }
+  ]
+ },
+ {
+  "awardYear": 2017,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2017-10-06",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 948,
+    "fullName": "International Campaign to Abolish Nuclear Weapons",
+    "portion": "1",
+    "motivation": "for its work to draw attention to the catastrophic humanitarian consequences of any use of nuclear weapons and for its ground-breaking efforts to achieve a treaty-based prohibition of such weapons"
+   }
+  ]
+ },
+ {
+  "awardYear": 2017,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2017-10-05",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 947,
+    "fullName": "Kazuo Ishiguro",
+    "portion": "1",
+    "motivation": "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world"
+   }
+  ]
+ },
+ {
+  "awardYear": 2017,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2017-10-09",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 949,
+    "fullName": "Richard H. Thaler",
+    "portion": "1",
+    "motivation": "for his contributions to behavioural economics"
+   }
+  ]
+ },
+ {
+  "awardYear": 2017,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2017-10-04",
+  "prizeAmount": 9000000,
+  "laureates": [
+   {
+    "id": 944,
+    "fullName": "Jacques Dubochet",
+    "portion": "1/3",
+    "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution"
+   },
+   {
+    "id": 945,
+    "fullName": "Joachim Frank",
+    "portion": "1/3",
+    "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution"
+   },
+   {
+    "id": 946,
+    "fullName": "Richard Henderson",
+    "portion": "1/3",
+    "motivation": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution"
+   }
+  ]
+ },
+ {
+  "awardYear": 2016,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2016-10-03",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 927,
+    "fullName": "Yoshinori Ohsumi",
+    "portion": "1",
+    "motivation": "for his discoveries of mechanisms for autophagy"
+   }
+  ]
+ },
+ {
+  "awardYear": 2016,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2016-10-04",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 928,
+    "fullName": "David J. Thouless",
+    "portion": "1/2",
+    "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
+   },
+   {
+    "id": 929,
+    "fullName": "F. Duncan M. Haldane",
+    "portion": "1/4",
+    "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
+   },
+   {
+    "id": 930,
+    "fullName": "J. Michael Kosterlitz",
+    "portion": "1/4",
+    "motivation": "for theoretical discoveries of topological phase transitions and topological phases of matter"
+   }
+  ]
+ },
+ {
+  "awardYear": 2016,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2016-10-07",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 934,
+    "fullName": "Juan Manuel Santos",
+    "portion": "1",
+    "motivation": "for his resolute efforts to bring the country's more than 50-year-long civil war to an end"
+   }
+  ]
+ },
+ {
+  "awardYear": 2016,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2016-10-13",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 937,
+    "fullName": "Bob Dylan",
+    "portion": "1",
+    "motivation": "for having created new poetic expressions within the great American song tradition"
+   }
+  ]
+ },
+ {
+  "awardYear": 2016,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2016-10-10",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 935,
+    "fullName": "Oliver Hart",
+    "portion": "1/2",
+    "motivation": "for their contributions to contract theory"
+   },
+   {
+    "id": 936,
+    "fullName": "Bengt Holmström",
+    "portion": "1/2",
+    "motivation": "for their contributions to contract theory"
+   }
+  ]
+ },
+ {
+  "awardYear": 2016,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2016-10-05",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 931,
+    "fullName": "Jean-Pierre Sauvage",
+    "portion": "1/3",
+    "motivation": "for the design and synthesis of molecular machines"
+   },
+   {
+    "id": 932,
+    "fullName": "Sir J. Fraser Stoddart",
+    "portion": "1/3",
+    "motivation": "for the design and synthesis of molecular machines"
+   },
+   {
+    "id": 933,
+    "fullName": "Bernard L. Feringa",
+    "portion": "1/3",
+    "motivation": "for the design and synthesis of molecular machines"
+   }
+  ]
+ },
+ {
+  "awardYear": 2015,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2015-10-05",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 916,
+    "fullName": "William C. Campbell",
+    "portion": "1/4",
+    "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites"
+   },
+   {
+    "id": 917,
+    "fullName": "Satoshi Ōmura",
+    "portion": "1/4",
+    "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites"
+   },
+   {
+    "id": 918,
+    "fullName": "Tu Youyou",
+    "portion": "1/2",
+    "motivation": "for her discoveries concerning a novel therapy against Malaria"
+   }
+  ]
+ },
+ {
+  "awardYear": 2015,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2015-10-06",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 919,
+    "fullName": "Takaaki Kajita",
+    "portion": "1/2",
+    "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass"
+   },
+   {
+    "id": 920,
+    "fullName": "Arthur B. McDonald",
+    "portion": "1/2",
+    "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass"
+   }
+  ]
+ },
+ {
+  "awardYear": 2015,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2015-10-09",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 925,
+    "fullName": "National Dialogue Quartet",
+    "portion": "1",
+    "motivation": "for its decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011"
+   }
+  ]
+ },
+ {
+  "awardYear": 2015,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2015-10-08",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 924,
+    "fullName": "Svetlana Alexievich",
+    "portion": "1",
+    "motivation": "for her polyphonic writings, a monument to suffering and courage in our time"
+   }
+  ]
+ },
+ {
+  "awardYear": 2015,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2015-10-12",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 926,
+    "fullName": "Angus Deaton",
+    "portion": "1",
+    "motivation": "for his analysis of consumption, poverty, and welfare"
+   }
+  ]
+ },
+ {
+  "awardYear": 2015,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2015-10-07",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 921,
+    "fullName": "Tomas Lindahl",
+    "portion": "1/3",
+    "motivation": "for mechanistic studies of DNA repair"
+   },
+   {
+    "id": 922,
+    "fullName": "Paul Modrich",
+    "portion": "1/3",
+    "motivation": "for mechanistic studies of DNA repair"
+   },
+   {
+    "id": 923,
+    "fullName": "Aziz Sancar",
+    "portion": "1/3",
+    "motivation": "for mechanistic studies of DNA repair"
+   }
+  ]
+ },
+ {
+  "awardYear": 2014,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2014-10-06",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 903,
+    "fullName": "John O'Keefe",
+    "portion": "1/2",
+    "motivation": "for their discoveries of cells that constitute a positioning system in the brain"
+   },
+   {
+    "id": 904,
+    "fullName": "May-Britt Moser",
+    "portion": "1/4",
+    "motivation": "for their discoveries of cells that constitute a positioning system in the brain"
+   },
+   {
+    "id": 905,
+    "fullName": "Edvard I. Moser",
+    "portion": "1/4",
+    "motivation": "for their discoveries of cells that constitute a positioning system in the brain"
+   }
+  ]
+ },
+ {
+  "awardYear": 2014,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2014-10-07",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 906,
+    "fullName": "Isamu Akasaki",
+    "portion": "1/3",
+    "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources"
+   },
+   {
+    "id": 907,
+    "fullName": "Hiroshi Amano",
+    "portion": "1/3",
+    "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources"
+   },
+   {
+    "id": 908,
+    "fullName": "Shuji Nakamura",
+    "portion": "1/3",
+    "motivation": "for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources"
+   }
+  ]
+ },
+ {
+  "awardYear": 2014,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2014-10-10",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 913,
+    "fullName": "Kailash Satyarthi",
+    "portion": "1/2",
+    "motivation": "for their struggle against the suppression of children and young people and for the right of all children to education"
+   },
+   {
+    "id": 914,
+    "fullName": "Malala Yousafzai",
+    "portion": "1/2",
+    "motivation": "for their struggle against the suppression of children and young people and for the right of all children to education"
+   }
+  ]
+ },
+ {
+  "awardYear": 2014,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2014-10-09",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 912,
+    "fullName": "Patrick Modiano",
+    "portion": "1",
+    "motivation": "for the art of memory with which he has evoked the most ungraspable human destinies and uncovered the life-world of the occupation"
+   }
+  ]
+ },
+ {
+  "awardYear": 2014,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2014-10-13",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 915,
+    "fullName": "Jean Tirole",
+    "portion": "1",
+    "motivation": "for his analysis of market power and regulation"
+   }
+  ]
+ },
+ {
+  "awardYear": 2014,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2014-10-08",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 909,
+    "fullName": "Eric Betzig",
+    "portion": "1/3",
+    "motivation": "for the development of super-resolved fluorescence microscopy"
+   },
+   {
+    "id": 910,
+    "fullName": "Stefan W. Hell",
+    "portion": "1/3",
+    "motivation": "for the development of super-resolved fluorescence microscopy"
+   },
+   {
+    "id": 911,
+    "fullName": "William E. Moerner",
+    "portion": "1/3",
+    "motivation": "for the development of super-resolved fluorescence microscopy"
+   }
+  ]
+ },
+ {
+  "awardYear": 2013,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2013-10-07",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 884,
+    "fullName": "James E. Rothman",
+    "portion": "1/3",
+    "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+   },
+   {
+    "id": 885,
+    "fullName": "Randy W. Schekman",
+    "portion": "1/3",
+    "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+   },
+   {
+    "id": 886,
+    "fullName": "Thomas C. Südhof",
+    "portion": "1/3",
+    "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells"
+   }
+  ]
+ },
+ {
+  "awardYear": 2013,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2013-10-08",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 887,
+    "fullName": "François Englert",
+    "portion": "1/2",
+    "motivation": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider"
+   },
+   {
+    "id": 888,
+    "fullName": "Peter W. Higgs",
+    "portion": "1/2",
+    "motivation": "for the theoretical discovery of a mechanism that contributes to our understanding of the origin of mass of subatomic particles, and which recently was confirmed through the discovery of the predicted fundamental particle, by the ATLAS and CMS experiments at CERN's Large Hadron Collider"
+   }
+  ]
+ },
+ {
+  "awardYear": 2013,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2013-10-11",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 893,
+    "fullName": "Organisation for the Prohibition of Chemical Weapons",
+    "portion": "1",
+    "motivation": "for its extensive efforts to eliminate chemical weapons"
+   }
+  ]
+ },
+ {
+  "awardYear": 2013,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2013-10-10",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 892,
+    "fullName": "Alice Munro",
+    "portion": "1",
+    "motivation": "master of the contemporary short story"
+   }
+  ]
+ },
+ {
+  "awardYear": 2013,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2013-10-14",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 894,
+    "fullName": "Eugene F. Fama",
+    "portion": "1/3",
+    "motivation": "for their empirical analysis of asset prices"
+   },
+   {
+    "id": 895,
+    "fullName": "Lars Peter Hansen",
+    "portion": "1/3",
+    "motivation": "for their empirical analysis of asset prices"
+   },
+   {
+    "id": 896,
+    "fullName": "Robert J. Shiller",
+    "portion": "1/3",
+    "motivation": "for their empirical analysis of asset prices"
+   }
+  ]
+ },
+ {
+  "awardYear": 2013,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2013-10-09",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 889,
+    "fullName": "Martin Karplus",
+    "portion": "1/3",
+    "motivation": "for the development of multiscale models for complex chemical systems"
+   },
+   {
+    "id": 890,
+    "fullName": "Michael Levitt",
+    "portion": "1/3",
+    "motivation": "for the development of multiscale models for complex chemical systems"
+   },
+   {
+    "id": 891,
+    "fullName": "Arieh Warshel",
+    "portion": "1/3",
+    "motivation": "for the development of multiscale models for complex chemical systems"
+   }
+  ]
+ },
+ {
+  "awardYear": 2012,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2012-10-08",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 874,
+    "fullName": "Sir John B. Gurdon",
+    "portion": "1/2",
+    "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent"
+   },
+   {
+    "id": 875,
+    "fullName": "Shinya Yamanaka",
+    "portion": "1/2",
+    "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent"
+   }
+  ]
+ },
+ {
+  "awardYear": 2012,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2012-10-09",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 876,
+    "fullName": "Serge Haroche",
+    "portion": "1/2",
+    "motivation": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems"
+   },
+   {
+    "id": 877,
+    "fullName": "David J. Wineland",
+    "portion": "1/2",
+    "motivation": "for ground-breaking experimental methods that enable measuring and manipulation of individual quantum systems"
+   }
+  ]
+ },
+ {
+  "awardYear": 2012,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2012-10-12",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 881,
+    "fullName": "European Union",
+    "portion": "1",
+    "motivation": "for over six decades contributed to the advancement of peace and reconciliation, democracy and human rights in Europe"
+   }
+  ]
+ },
+ {
+  "awardYear": 2012,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2012-10-11",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 880,
+    "fullName": "Mo Yan",
+    "portion": "1",
+    "motivation": "who with hallucinatory realism merges folk tales, history and the contemporary"
+   }
+  ]
+ },
+ {
+  "awardYear": 2012,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2012-10-15",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 882,
+    "fullName": "Alvin E. Roth",
+    "portion": "1/2",
+    "motivation": "for the theory of stable allocations and the practice of market design"
+   },
+   {
+    "id": 883,
+    "fullName": "Lloyd S. Shapley",
+    "portion": "1/2",
+    "motivation": "for the theory of stable allocations and the practice of market design"
+   }
+  ]
+ },
+ {
+  "awardYear": 2012,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2012-10-10",
+  "prizeAmount": 8000000,
+  "laureates": [
+   {
+    "id": 878,
+    "fullName": "Robert J. Lefkowitz",
+    "portion": "1/2",
+    "motivation": "for studies of G-protein-coupled receptors"
+   },
+   {
+    "id": 879,
+    "fullName": "Brian K. Kobilka",
+    "portion": "1/2",
+    "motivation": "for studies of G-protein-coupled receptors"
+   }
+  ]
+ },
+ {
+  "awardYear": 2011,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2011-10-03",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 861,
+    "fullName": "Bruce A. Beutler",
+    "portion": "1/4",
+    "motivation": "for their discoveries concerning the activation of innate immunity"
+   },
+   {
+    "id": 862,
+    "fullName": "Jules A. Hoffmann",
+    "portion": "1/4",
+    "motivation": "for their discoveries concerning the activation of innate immunity"
+   },
+   {
+    "id": 863,
+    "fullName": "Ralph M. Steinman",
+    "portion": "1/2",
+    "motivation": "for his discovery of the dendritic cell and its role in adaptive immunity"
+   }
+  ]
+ },
+ {
+  "awardYear": 2011,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2011-10-04",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 864,
+    "fullName": "Saul Perlmutter",
+    "portion": "1/2",
+    "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"
+   },
+   {
+    "id": 865,
+    "fullName": "Brian P. Schmidt",
+    "portion": "1/4",
+    "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"
+   },
+   {
+    "id": 866,
+    "fullName": "Adam G. Riess",
+    "portion": "1/4",
+    "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae"
+   }
+  ]
+ },
+ {
+  "awardYear": 2011,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2011-10-07",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 869,
+    "fullName": "Ellen Johnson Sirleaf",
+    "portion": "1/3",
+    "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work"
+   },
+   {
+    "id": 870,
+    "fullName": "Leymah Gbowee",
+    "portion": "1/3",
+    "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work"
+   },
+   {
+    "id": 871,
+    "fullName": "Tawakkol Karman",
+    "portion": "1/3",
+    "motivation": "for their non-violent struggle for the safety of women and for women's rights to full participation in peace-building work"
+   }
+  ]
+ },
+ {
+  "awardYear": 2011,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2011-10-06",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 868,
+    "fullName": "Tomas Tranströmer",
+    "portion": "1",
+    "motivation": "because, through his condensed, translucent images, he gives us fresh access to reality"
+   }
+  ]
+ },
+ {
+  "awardYear": 2011,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2011-10-10",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 872,
+    "fullName": "Thomas J. Sargent",
+    "portion": "1/2",
+    "motivation": "for their empirical research on cause and effect in the macroeconomy"
+   },
+   {
+    "id": 873,
+    "fullName": "Christopher A. Sims",
+    "portion": "1/2",
+    "motivation": "for their empirical research on cause and effect in the macroeconomy"
+   }
+  ]
+ },
+ {
+  "awardYear": 2011,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2011-10-05",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 867,
+    "fullName": "Dan Shechtman",
+    "portion": "1",
+    "motivation": "for the discovery of quasicrystals"
+   }
+  ]
+ },
+ {
+  "awardYear": 2010,
+  "category": "med",
+  "categoryName": "Physiology or Medicine",
+  "fullName": "The Nobel Prize in Physiology or Medicine",
+  "dateAwarded": "2010-10-04",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 848,
+    "fullName": "Robert G. Edwards",
+    "portion": "1",
+    "motivation": "for the development of in vitro fertilization"
+   }
+  ]
+ },
+ {
+  "awardYear": 2010,
+  "category": "phy",
+  "categoryName": "Physics",
+  "fullName": "The Nobel Prize in Physics",
+  "dateAwarded": "2010-10-05",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 849,
+    "fullName": "Andre Geim",
+    "portion": "1/2",
+    "motivation": "for groundbreaking experiments regarding the two-dimensional material graphene"
+   },
+   {
+    "id": 850,
+    "fullName": "Konstantin Novoselov",
+    "portion": "1/2",
+    "motivation": "for groundbreaking experiments regarding the two-dimensional material graphene"
+   }
+  ]
+ },
+ {
+  "awardYear": 2010,
+  "category": "pea",
+  "categoryName": "Peace",
+  "fullName": "The Nobel Peace Prize",
+  "dateAwarded": "2010-10-08",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 855,
+    "fullName": "Liu Xiaobo",
+    "portion": "1",
+    "motivation": "for his long and non-violent struggle for fundamental human rights in China"
+   }
+  ]
+ },
+ {
+  "awardYear": 2010,
+  "category": "lit",
+  "categoryName": "Literature",
+  "fullName": "The Nobel Prize in Literature",
+  "dateAwarded": "2010-10-07",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 854,
+    "fullName": "Mario Vargas Llosa",
+    "portion": "1",
+    "motivation": "for his cartography of structures of power and his trenchant images of the individual's resistance, revolt, and defeat"
+   }
+  ]
+ },
+ {
+  "awardYear": 2010,
+  "category": "eco",
+  "categoryName": "Economic Sciences",
+  "fullName": "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel",
+  "dateAwarded": "2010-10-11",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 856,
+    "fullName": "Peter A. Diamond",
+    "portion": "1/3",
+    "motivation": "for their analysis of markets with search frictions"
+   },
+   {
+    "id": 857,
+    "fullName": "Dale T. Mortensen",
+    "portion": "1/3",
+    "motivation": "for their analysis of markets with search frictions"
+   },
+   {
+    "id": 858,
+    "fullName": "Christopher A. Pissarides",
+    "portion": "1/3",
+    "motivation": "for their analysis of markets with search frictions"
+   }
+  ]
+ },
+ {
+  "awardYear": 2010,
+  "category": "che",
+  "categoryName": "Chemistry",
+  "fullName": "The Nobel Prize in Chemistry",
+  "dateAwarded": "2010-10-06",
+  "prizeAmount": 10000000,
+  "laureates": [
+   {
+    "id": 851,
+    "fullName": "Richard F. Heck",
+    "portion": "1/3",
+    "motivation": "for palladium-catalyzed cross couplings in organic synthesis"
+   },
+   {
+    "id": 852,
+    "fullName": "Ei-ichi Negishi",
+    "portion": "1/3",
+    "motivation": "for palladium-catalyzed cross couplings in organic synthesis"
+   },
+   {
+    "id": 853,
+    "fullName": "Akira Suzuki",
+    "portion": "1/3",
+    "motivation": "for palladium-catalyzed cross couplings in organic synthesis"
+   }
+  ]
+ }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "author": "Anna",
+    "title": "Красивый закат сегодня",
+    "body": "Смотрите, какой цвет неба над рекой.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=1",
+    "avatarColor": "#E53935"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "author": "Maks",
+    "title": "Новый кофе-мастер-класс",
+    "body": "Приходите все, будет вкусно!",
+    "avatarUrl": "https://i.pravatar.cc/150?img=2",
+    "avatarColor": "#8E24AA"
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "author": "Olga",
+    "title": "Прочитала новую книгу",
+    "body": "Советую всем, кто любит фантастику.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=3",
+    "avatarColor": "#3949AB"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "author": "Ivan",
+    "title": "Первый забег на 10 км",
+    "body": "Пробежал за 52 минуты, доволен.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=4",
+    "avatarColor": "#00897B"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "author": "Katya",
+    "title": "Мой кот научился открывать дверь",
+    "body": "Теперь закрываю на ключ.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=5",
+    "avatarColor": "#F4511E"
+  },
+  {
+    "id": 6,
+    "userId": 6,
+    "author": "Dima",
+    "title": "Собрал свой первый ПК",
+    "body": "Все заработало с первого раза.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=6",
+    "avatarColor": "#6D4C41"
+  },
+  {
+    "id": 7,
+    "userId": 7,
+    "author": "Lena",
+    "title": "Поход в горы",
+    "body": "Три дня без интернета, очень круто.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=7",
+    "avatarColor": "#43A047"
+  },
+  {
+    "id": 8,
+    "userId": 8,
+    "author": "Sergey",
+    "title": "Испек хлеб дома",
+    "body": "Оказалось не так сложно, как думал.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=8",
+    "avatarColor": "#FDD835"
+  },
+  {
+    "id": 9,
+    "userId": 9,
+    "author": "Masha",
+    "title": "Выставка в музее",
+    "body": "Больше всего понравились картины Айвазовского.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=9",
+    "avatarColor": "#1E88E5"
+  },
+  {
+    "id": 10,
+    "userId": 10,
+    "author": "Pavel",
+    "title": "Сдал экзамен по Kotlin",
+    "body": "Корутины больше не пугают.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=10",
+    "avatarColor": "#D81B60"
+  },
+  {
+    "id": 11,
+    "userId": 11,
+    "author": "Nastya",
+    "title": "Посадила помидоры на балконе",
+    "body": "Жду первый урожай.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=11",
+    "avatarColor": "#546E7A"
+  },
+  {
+    "id": 12,
+    "userId": 12,
+    "author": "Artem",
+    "title": "Купил велосипед",
+    "body": "Теперь езжу на учебу на нем.",
+    "avatarUrl": "https://i.pravatar.cc/150?img=12",
+    "avatarColor": "#00ACC1"
+  }
+]
